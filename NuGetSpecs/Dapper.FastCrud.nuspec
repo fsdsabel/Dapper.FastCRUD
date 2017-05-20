@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Dapper.FastCrud</id>
+    <id>Dapper.FastCrud.StrongName</id>
     <version>$version$</version>
     <title>Dapper.FastCrud</title>
     <authors>MoonStorm</authors>
